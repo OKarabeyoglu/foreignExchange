@@ -1,0 +1,6 @@
+datafixerservice:
+  baseUrl: https://freecurrencyapi.net/api/v2/latest?apikey=
+  accessKey: 08867d80-6747-11ec-8794-178a8ce75424
+  headerName: "user-agent"
+  headerValue: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36"
+  headerBody: "parameter"
